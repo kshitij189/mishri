@@ -31,101 +31,53 @@ This is the first reel’s combined writing and generation reference. It contain
 If an approved Mishri portrait already exists, use it. Do not replace it just because a new generation looks different or more polished. This prompt records her master design.
 
 ```text
-Create a definitive full-body character reference portrait of MISHRI,
-an original female anthropomorphic Indian grey mongoose who works as
-a travelling courier across India.
+Create one photorealistic vertical 9:16 character sheet of MISHRI containing
+exactly THREE full-body views of the SAME character in one image:
+1) complete LEFT SIDE PROFILE, 2) straight FRONT view, and
+3) complete RIGHT SIDE PROFILE. Arrange them evenly from left to right.
 
-CHARACTER AND AGE
-Mishri is a young adult, equivalent to a 24-year-old human. She has a
-short, lean, agile build with mature adult proportions. She stands
-upright on two legs and uses her arms and hands naturally like a human.
-Her appearance should suit an ordinary working courier.
+Mishri is a cute, petite adult female white mouse courier, about 125 cm tall
+in boots. She stands upright but remains visually 100% mouse: softly rounded
+mouse face, small tapered muzzle, tiny pink nose, large round ears with pale-pink
+inner skin, fine white whiskers, soft white fur and a long slender pink tail.
+Her large expressive dark-brown eyes are bigger than a real mouse's but remain
+believable. No human face, skin or hair. She is an adult, not a baby mouse,
+mascot, rat, giant rodent or oversized character.
 
-FACE AND EXPRESSION
-Give her a clearly recognizable mongoose face: a gently tapered muzzle,
-small rounded ears close to the head, a small black nose, and expressive
-amber-brown eyes of natural size. Preserve animal anatomy while allowing
-subtle, believable human-like expressions.
+Keep one identical design across all three views. Add a tiny pale-grey
+crescent-shaped fur mark immediately above HER LEFT eye. Outfit: open mustard-yellow
+courier jacket, dark-teal T-shirt, charcoal cargo trousers and worn brown
+ankle boots. Brick-red canvas courier bag at HER LEFT hip, with its dark-brown
+strap running from HER RIGHT shoulder to HER LEFT hip. Black digital watch
+on HER LEFT wrist. Small dexterous fur-covered hands.
 
-Her expression is warm, alert, and slightly mischievous, with a small
-closed-mouth smile. She looks resourceful and approachable.
+Give her a very cute, friendly face with large expressive dark-brown eyes,
+soft rounded cheeks and a small warm smile. Keep the eyes identical in size,
+shape, colour and placement across all three views. Neutral relaxed pose,
+arms slightly away from the body, warm mischievous
+expression. Both side profiles must clearly show her tapered mouse muzzle,
+large round ear, compact body, bag position and long pink tail. All three figures
+must have the same height, proportions, face, markings, outfit and colours.
 
-Her femininity is understated. No human scalp hair, makeup, exaggerated
-eyelashes, or exaggerated human body features.
-
-FUR AND IDENTIFYING MARK
-Short, dense, warm grey-brown fur with fine silver flecks and realistic
-individual strands. Lighter cream fur around the muzzle, chin, throat,
-and upper chest.
-
-A small, clearly visible cream teardrop-shaped fur patch sits immediately
-above HER OWN LEFT eye, in the eyebrow area. This is a natural fur marking,
-not jewellery or paint. Keep it on her anatomical left side.
-
-BODY AND HANDS
-Natural shoulders, slender limbs, and small, dexterous, fur-covered
-anthropomorphic hands with five clearly formed digits, including an
-opposable thumb. Her hands can comfortably hold a phone or a parcel.
-No prominent claws.
-
-A long, tapered grey-brown furry tail emerges naturally behind her,
-curving gently to one side and remaining visible. It is not striped
-and does not have an oversized fluffy tip.
-
-PERMANENT OUTFIT
-A practical mustard-yellow lightweight courier jacket, unzipped,
-with simple pockets and no logos.
-A plain dark-teal crew-neck T-shirt underneath.
-Charcoal-grey cargo trousers with modest side pockets.
-Worn brown ankle boots with rubber soles.
-Clean but slightly worn clothes with believable fabric folds.
-
-BAG AND ACCESSORY
-A medium-sized brick-red canvas courier bag rests at HER OWN LEFT hip.
-Its broad dark-brown strap runs diagonally from HER OWN RIGHT shoulder
-to HER OWN LEFT hip. The bag has a simple flap closure, light wear,
-and no lettering or brand logo.
-A simple black digital wristwatch is on HER OWN LEFT wrist.
-No other jewellery or accessories.
-
-POSE AND FRAMING
-One character, standing comfortably in a front-facing pose.
-Head facing the camera, shoulders relaxed, arms slightly separated
-from the torso so both hands and the outfit are easy to see.
-Feet naturally spaced. Tail visible beside the body.
-Show the entire character from ears to boot soles, with space around
-the silhouette. Eye-level camera, natural perspective, vertical 9:16.
-
-VISUAL STYLE
-Photorealistic cinematic character design with subtly expressive features.
-Realistic mongoose fur, believable anatomy, detailed fabric and leather,
-and natural colours. Mishri should look convincingly present in a
-live-action Indian street scene.
-Soft, even studio daylight. Plain warm-grey background. Sharp focus
-across the face, clothing, hands, and feet. No dramatic colour grading,
-motion blur, or heavy shadows.
-
-Neutral character identity reference, not an action scene.
-No scooter, helmet, parcel, phone, food, scenery, additional characters,
-text, watermark, or logos.
+Soft even studio daylight, plain warm-grey background, sharp detail, natural
+colours. No perspective distortion, action pose, scenery, props, labels,
+text, logos, watermark, extra views, cropped ears or cropped feet.
 ```
 
 **Optional negative prompt** — use a negative-prompt field if the image tool has one; otherwise the main prompt already supplies the essential exclusions.
 
 ```text
-Baby mongoose, child proportions, oversized head, huge cartoon eyes,
-cat face, fox face, dog face, rat face, pointed fox ears, raccoon markings,
-striped tail, oversized fluffy tail, human skin, human hairstyle,
-heavy makeup, long eyelashes, exaggerated breasts, glamorous clothing,
-neon-yellow jacket, red jacket, backpack, duplicate bags, extra limbs,
-extra fingers, fused fingers, malformed hands, missing tail, cropped ears,
-cropped feet, inconsistent fur markings, plastic fur, cartoon rendering,
-text, logos, watermark, multiple characters.
+Baby mouse, rat, hamster, chinchilla, oversized rodent, mascot body, tiny eyes,
+extremely huge anime eyes, bulging eyes, mismatched eyes, cartoon style,
+human face, human skin, human hair, human lips, black facial patches,
+short tail, furry tail, inconsistent outfit, wrong bag side, duplicate bags,
+extra limbs, malformed hands, cropped ears, cropped feet, extra views,
+different characters, action pose, scenery, text, logo, watermark.
 ```
 
-**Approval checks:** mongoose face; amber-brown eyes; cream mark over her left eye; yellow jacket; teal shirt; red bag at her left hip; watch on her left wrist; visible tapered tail. In a front-facing image, her left is on the viewer’s right.
+**Approval checks:** exactly three matching full-body figures in one image—left profile, front view and right profile; very cute adult female white-mouse face; large expressive but believable dark-brown eyes identical across all views; petite 125 cm upright height; large round ears with pale-pink interiors; tiny pink nose; white whiskers; pale-grey crescent above her left eye; long slender pink tail; yellow jacket; teal shirt; red bag at her left hip; watch on her left wrist; no cropping. In the front view, her left is on the viewer’s right.
 
-**Mishri’s voice:** A young adult female voice, warm medium pitch, clear conversational Hindi, practical and gently mischievous. Never a squeaky baby-animal voice. Breathlessness on the stairs is mild; jokes are delivered casually.
+**Mishri’s voice:** A clearly adult Haryanvi human male voice with a deep baritone pitch, strong chest resonance and natural Haryana speech rhythm. The accent should be recognizably Haryanvi while every scripted word remains exactly as written. Delivery is mature, grounded, confident and conversational—not female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or artificially distorted. The human quality applies only to the audio. Mishri remains visually 100% white mouse in every frame. Never use squeaks, animal noises, a baby voice, or a visible human speaker. Breathlessness on the stairs is mild; jokes are delivered casually.
 
 Suggested reference asset name: `Mishri_Master_Reference`.
 
@@ -165,7 +117,7 @@ One character only. No phone, laptop, food, furniture, text, logos,
 watermarks, beauty filters, exaggerated features, or extra limbs.
 ```
 
-**Aditi’s voice:** A distinct young adult female voice, slightly lighter and softer than Mishri’s, clear conversational Hindi, friendly and unhurried. Surprise is expressed through a pause and a change of tone, not shouting.
+**Aditi’s voice:** A distinct young adult female voice, clearly higher and lighter than Mishri’s deep Haryanvi male baritone, clear conversational Hindi, friendly and unhurried. Surprise is expressed through a pause and a change of tone, not shouting.
 
 Suggested reference asset name: `Aditi_Master_Reference`.
 
@@ -191,7 +143,8 @@ Keep the same mother’s voice across all three clips. Phone audio must not make
 | Interior | Off-white walls, light-brown wooden table, two simple chairs, pale curtains and daylight from camera-left. Black laptop on a small work desk behind Aditi. |
 | Table geography | Mishri sits screen-left and Aditi screen-right in clips 8–12. Keep positions, containers and window direction consistent. |
 | Working status | Aditi is finishing a meeting at the doorway. Her laptop is closed by clip 8, after an implied short passage of time. |
-| Tone | Ordinary human responses to Mishri; nobody is surprised that a mongoose works as a courier. Warm realism, no magical behaviour. |
+| Tone | Ordinary human responses to Mishri; nobody is surprised that a white mouse works as a courier. Warm realism, no magical behaviour. |
+| Mishri's size | Petite adult female white mouse, about 125 cm upright in boots; shorter and less bulky than Aditi. Never oversized, towering, mascot-sized or room-filling. |
 
 Create and retain a simple exterior/doorway reference and a flat/table reference before generating the sequence. Use an actual Jaipur reference for the exterior. These are environment references, not additional characters. Keep Mishri’s height relative to Aditi fixed using an approved two-character composition. Do not generate either character independently at a new scale in every shot.
 
@@ -219,54 +172,20 @@ The dialogue below is the script of record. English visual directions are produc
 1. Create or select the approved Mishri and Aditi reference images. Suggested asset names in this document are labels to use yourself, not files already attached to Flow.
 2. In Flow, select video generation, vertical 9:16, and eight-second generation length using a model/mode that supports your required reference and audio features. Availability can vary; check the settings shown in your account.
 3. Add the relevant visual references to each generation. Use ingredients/reference images where supported. Alternatively, create a reference-based starting image for the shot and animate that frame.
-4. For every clip, paste the **shared prompt block below followed by that clip’s individual prompt**. Both blocks together form the complete prompt. Generate each clip separately; do not paste all twelve scene prompts into one eight-second generation.
+4. Each clip below has one complete, standalone prompt. Copy only that clip's prompt into one eight-second generation. Do not prepend a shared block and do not paste multiple clip prompts into one generation.
 5. Match voices using the same saved voice references where supported by your selected mode. A textual voice description alone cannot guarantee an identical voice across generations. If speech or lip-sync is inaccurate, regenerate the clip or use consistent recorded Hindi voices in editing.
 6. Reuse an approved scene frame or saved frame for adjacent clips when appropriate. Keep the visible character and scene references consistent with the prompt.
 7. Assemble clips 01–12 in order. Add captions, the Jaipur location label, phone-screen text and music in editing. Each source clip is eight seconds; twelve clips placed end-to-end total 96 seconds before any additional title or end card.
 
 Official guidance consulted on 23 October 2026: [Create videos and use references in Google Flow](https://support.google.com/flow/answer/16353334), [Models and supported features](https://support.google.com/flow/answer/16352836), and [Save frames and assemble scenes](https://support.google.com/flow/answer/16935718). The prompts below are creative instructions, not a guarantee that Flow will reproduce every word or movement exactly.
 
-### Shared prompt block — paste before every clip prompt
+### Standalone prompt rule
 
-```text
-Generate ONE continuous 8-second video clip, vertical 9:16, with audio.
-Photorealistic everyday Indian slice-of-life comedy, natural morning
-daylight, believable movement and ordinary conversational reactions.
-This is set in Jaipur. Use the supplied location reference faithfully;
-do not invent a famous landmark or turn every street into a palace.
+Every prompt below independently specifies the format, visual style, character identity, continuity, audio and exclusions needed for that clip. Use only one prompt at a time. Always attach the approved `Mishri_Master_Reference` whenever Mishri appears; this is the strongest safeguard against changes to her face, pure-white fur pattern, height and outfit.
 
-Preserve the exact identity and proportions of every supplied character
-reference. Mishri is the adult female grey mongoose courier, with
-amber-brown eyes, cream marking above HER LEFT eye, mustard-yellow open
-jacket, dark-teal shirt, charcoal cargo trousers and brown boots.
-Her red courier bag hangs from HER RIGHT shoulder to HER LEFT hip unless
-the shot specifies that it is hanging on her chair. Her watch is on HER
-LEFT wrist. Keep fur markings and strap direction consistent.
+The following lock is intentionally repeated in every clip prompt because video generators may otherwise merge Mishri's human voice with a human appearance: **Mishri is visually a white mouse only; her audio voice is deliberately an adult Haryanvi human male baritone with deep chest resonance. Use a male speaker only; never a female, youthful, high-pitched or comic voice.**
 
-When Aditi is visible, preserve her human face, low black ponytail,
-dusty-rose kurta, off-white trousers, navy slippers and silver studs.
-Do not merge the two characters, exchange their outfits or change species.
-Everyone treats Mishri as an ordinary person in this fictional world.
-
-Speak ONLY the exact Hindi dialogue in the individual clip prompt, in
-the specified order. Speaker labels and English directions are not spoken.
-No translation, improvised dialogue, narrator or overlapping speech.
-Only the active visible speaker moves their lips. A phone speaker stays
-off screen, with a slight telephone quality and no lip movement from
-the listening characters. Keep voices consistent with earlier clips.
-Mishri: warm young-adult female voice, medium pitch, gently mischievous.
-Aditi: a distinct, slightly lighter young-adult female voice, friendly.
-Mother: mature female voice around fifty, warm and increasingly hurried.
-Natural conversational pacing; no sped-up or cut-off final words.
-
-Use quiet location sound beneath clear dialogue. No background music,
-laugh track, horror effects, dramatic trailer sounds or extra intelligible
-background speech. No generated subtitles, titles, logos or watermark.
-Phone displays may remain indistinct; readable screen text is added later.
-Avoid extreme close-ups of fingers, elaborate hand choreography, duplicate
-props, changing bag colours and accidental extra foreground characters.
-Keep the action simple and finish on the described expression or pose.
-```
+Whenever Mishri speaks, her own mouse mouth must visibly talk: animate her natural short mouse muzzle, lips and lower jaw with clear, subtle, syllable-accurate lip-sync for the entire line. The sound is diegetic speech coming from Mishri, not narration or voice-over. Never keep her mouth closed, animate another character's mouth, or overlay human lips or a human mouth on her mouse face.
 
 ## 5 Google Flow prompts for each clip
 
@@ -275,6 +194,15 @@ Keep the action simple and finish on the described expression or pose.
 **Attach:** Mishri reference; pickup exterior reference; navy food bag and teal scooter references if available. No Aditi reference is necessary in this shot.
 
 ```text
+Generate one continuous 8-second photorealistic vertical 9:16 clip with audio.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling.
+TALKING LOCK: During Mishri's entire line, her own natural mouse muzzle, lips and lower jaw visibly articulate every Hindi syllable in exact sync. Her mouth is not closed; this is not voice-over. Do not add human lips or a human mouth.
+GESTURE: Mishri briefly raises the heavy bag a few centimetres with both hands, lifts one eyebrow, tilts her head toward it, then gives the camera a small open-palm “look how big this is” gesture. Keep the movement natural and restrained.
+Match the approved Mishri reference exactly: a cute, petite adult female white mouse
+with the same pure-white fur, dark-brown eyes, pink nose, round ears and whiskers,
+pale-grey crescent above her anatomical left eye, long slender pink tail, mustard open courier jacket,
+dark-teal shirt, charcoal cargo trousers, brown boots, left-wrist black watch,
+and brick-red bag strapped from right shoulder to left hip. Keep her adult scale.
 SHOT 01. Outside the pickup home on an ordinary Jaipur residential street,
 in soft morning light. Medium-wide eye-level shot. Mishri stands beside
 her stationary old teal scooter. Her brick-red courier bag is crossbody.
@@ -288,6 +216,8 @@ Mishri says to the camera:
 
 End on her small smile and a look back at the bag. Low distant street
 ambience and soft fabric rustle. No other speaker. One continuous shot.
+Speak only the quoted Hindi in Mishri's adult Haryanvi male baritone with deep chest resonance; no
+narrator, subtitles, music, logo, watermark, species drift, extra animals or people.
 ```
 
 ### Clip 02 — Introducing Mishri
@@ -297,6 +227,13 @@ ambience and soft fabric rustle. No other speaker. One continuous shot.
 ```text
 SHOT 02. Same pickup street, same morning light, same Mishri and scooter.
 Medium three-quarter view of Mishri beside the scooter's rear carrier.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling.
+TALKING LOCK: Mishri's own mouse mouth visibly speaks her full line; animate the short mouse muzzle, lips and jaw in precise syllable sync. No closed mouth, off-screen narration, human lips or substituted human mouth.
+GESTURE: After tightening the strap, Mishri lightly dusts her hands, points to herself once while saying “मैं मिश्री,” then gestures casually toward the Jaipur street and the delivery bag. Her ears make one subtle attentive movement.
+Create a single 8-second vertical 9:16 live-action-style clip with synchronized
+Hindi audio. Continue the exact cute, petite adult female white mouse identity from shot 01:
+unchanged face, pure-white fur, pale-grey crescent above her left eye, long slender pink tail, height, jacket,
+teal shirt, cargo trousers, boots, left watch and right-shoulder-to-left-hip red bag.
 The navy-blue food bag is already upright on the carrier, nearly secured
 with a simple luggage strap. Mishri gives the strap one final tug, then
 turns her head toward the camera with an optimistic, matter-of-fact smile.
@@ -308,6 +245,8 @@ Mishri says:
 
 End with her hand resting on the carrier. Soft street sounds and a quiet
 strap rustle. One continuous shot, no additional dialogue.
+Only Mishri lip-syncs the quoted line in her established deep Haryanvi male baritone.
+No captions, narrator, music, logos, extra speech, species change or marking drift.
 ```
 
 ### Clip 03 — Third floor
@@ -315,6 +254,14 @@ strap rustle. One continuous shot, no additional dialogue.
 **Attach:** Mishri reference; destination building exterior reference. Use Aditi’s voice reference if supported; her portrait does not need to appear.
 
 ```text
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling.
+TALKING LOCK: Mishri's natural mouse muzzle and lower jaw visibly articulate her question in exact Hindi sync. Her mouth stops when Aditi answers by phone. No human lips, closed-mouth voice-over or lip movement during Aditi's line.
+GESTURE: Mishri holds the phone naturally to one ear, shades her eyes with her free hand while looking toward the third floor, then gives a small acknowledging nod during Aditi's reply. No exaggerated arm waving.
+Generate one continuous photorealistic 8-second video, vertical 9:16, with clear
+location and phone audio. Mishri must remain the same cute, petite adult female
+white-mouse reference: identical marking pattern, face, pale-grey crescent above her
+left eye, long slender pink tail, adult proportions, mustard jacket, teal shirt, charcoal
+trousers, boots, left watch and red crossbody courier bag in the same direction.
 SHOT 03. A later moment outside Aditi's modest residential building in
 Jaipur. The teal scooter is parked, food bag still secured upright on
 the rear carrier. Mishri stands beside it with her red courier bag on.
@@ -330,6 +277,9 @@ Then Aditi replies only through the phone, off screen:
 Mishri listens without moving her lips during Aditi's reply. End on a
 small resigned smile. Gentle street ambience, clear phone dialogue.
 Do not show Aditi or add a split-screen.
+Use only the two quoted lines, no narration or subtitles. Mishri alone lip-syncs
+her line; Aditi's consistent lighter female voice is phone-only. No species drift,
+background dialogue, music, logo, watermark, extra characters or moving scooter.
 ```
 
 ### Clip 04 — Carrying the food upstairs
@@ -337,6 +287,14 @@ Do not show Aditi or add a split-screen.
 **Attach:** Mishri reference; stairwell reference; same navy food bag reference.
 
 ```text
+Make one uninterrupted 8-second photorealistic vertical 9:16 clip with audio.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling.
+TALKING LOCK: Animate Mishri's own mouse mouth, flexible lips, short muzzle and lower jaw through her complete line, matching every syllable. The voice comes from her visible mouth, not narration. Never paste human lips onto her face.
+GESTURE: Mishri shifts the bag carefully from one hand to the other, briefly places her free hand on her hip, exhales, and points upward with a small resigned motion before continuing. Her posture shows mild effort, not slapstick exhaustion.
+Lock Mishri to her approved cute, petite adult female white mouse reference: same face,
+stable pure-white fur and facial proportions, dark eyes, pale-grey crescent above her left eye, long slender pink tail,
+mustard jacket, teal shirt, charcoal trousers, boots, left watch, and red bag
+running from right shoulder to left hip. Preserve her scale and mature proportions.
 SHOT 04. Modest daylight-lit staircase inside the same building.
 Medium shot at a landing. Mishri has carried the navy-blue food bag up
 the stairs and pauses, holding it by the handles. Her separate red
@@ -349,6 +307,8 @@ Mishri says, mildly breathless and amused:
 
 End as she turns toward the next short flight. Restrained footsteps,
 fabric sounds, quiet indoor echo. No exaggerated panting or slapstick fall.
+She speaks only the exact quoted Hindi in the same deep Haryanvi male baritone, mildly breathless.
+No narrator, subtitles, music, logo, watermark, extra people, species drift or oversized tail.
 ```
 
 ### Clip 05 — Aditi receives the delivery
@@ -356,6 +316,15 @@ fabric sounds, quiet indoor echo. No exaggerated panting or slapstick fall.
 **Attach:** Mishri and Aditi references; approved doorway reference; navy food bag reference.
 
 ```text
+Generate a continuous 8-second cinematic-realism clip, vertical 9:16, with audio.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling. Aditi alone is human.
+TALKING LOCK: Aditi's human mouth lip-syncs only Aditi's line. Mishri's own mouse muzzle, lips and jaw then visibly articulate every syllable of Mishri's reply. Do not leave Mishri's mouth closed or replace it with human lips.
+GESTURE: Aditi adjusts her grip and glances down at the heavy bag with widened eyes. Mishri answers with a small knowing nod and a gentle one-handed shrug, palms relaxed. Both gestures should feel like ordinary human conversation.
+Use both approved references at their fixed relative height. Mishri is the same
+cute, petite adult female white mouse with unchanged pure-white fur and facial proportions, white
+notch on her left eye, long slender pink tail, mustard jacket, teal shirt, charcoal trousers, boots, left watch
+and correctly directed red crossbody bag. Aditi keeps her exact face, low black
+ponytail, dusty-rose kurta, off-white trousers, navy slippers and silver studs.
 SHOT 05. Third-floor flat entrance with a plain dark-brown open door.
 Medium two-shot: Mishri on screen-left outside the threshold, Aditi on
 screen-right inside. Aditi has just accepted the navy food bag and already
@@ -371,6 +340,9 @@ Mishri replies with a dry, friendly smile:
 
 End on their shared amused look. Quiet room tone. Keep speaking turns
 separate. The bag remains navy; Mishri still wears the red courier bag.
+Speak only the two quoted Hindi lines in order; each visible speaker lip-syncs
+only her own line. Preserve their established distinct voices. No captions,
+narrator, music, logo, watermark, species drift, extra characters or outfit changes.
 ```
 
 ### Clip 06 — Payment received
@@ -378,6 +350,14 @@ separate. The bag remains navy; Mishri still wears the red courier bag.
 **Attach:** Both character references; same doorway/interior reference or matching frame from clip 05.
 
 ```text
+Create one photorealistic 8-second vertical 9:16 shot with synchronized audio.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling. Aditi alone is human.
+TALKING LOCK: Use separate accurate lip-sync: Aditi's mouth for her line, then Mishri's natural mouse muzzle, lips and lower jaw for her full reply. The mouse mouth must visibly move; no voice-over or human-mouth overlay.
+GESTURE: Aditi briefly raises her phone to indicate payment is complete. Mishri checks her own phone, gives a small confirming nod, then lightly pats her stomach when mentioning breakfast and turns toward the door.
+Continue the exact approved two-character composition and relative scale.
+Mishri remains the cute, petite adult female white mouse with identical face, fixed
+pure-white fur and facial proportions, pale-grey crescent above her left eye, long slender pink tail and complete courier outfit;
+Aditi retains her face, low ponytail, dusty-rose kurta and off-white trousers.
 SHOT 06. Just inside the same flat entrance, same light and outfits.
 The closed navy food bag now rests on the nearby light-brown wooden
 table. Mishri remains near the open doorway, red courier bag crossbody.
@@ -393,6 +373,9 @@ Mishri checks her phone and replies:
 End with Mishri beginning to turn toward the exit. Quiet room tone and
 one soft generic notification sound. Do not display payment credentials,
 QR codes or invented readable app text.
+Use only the quoted Hindi, in order, with natural pacing and separate lip-sync.
+No subtitles, narrator, extra speech, music, logo, watermark, species drift, duplicate
+phones, changed phone cases, changed bags or accidental people.
 ```
 
 ### Clip 07 — An invitation to breakfast
@@ -400,6 +383,10 @@ QR codes or invented readable app text.
 **Attach:** Both character references; same interior reference; food bag/container reference.
 
 ```text
+Produce one continuous 8-second photorealistic vertical 9:16 clip with clear Hindi audio. Match both approved references at their established relative scale. Mishri remains the same cute, petite adult female white mouse with identical pure-white fur and facial proportions, pale-grey crescent above her left eye, long slender pink tail, mustard jacket, teal shirt, charcoal trousers, boots, left watch and correctly strapped red courier bag. Aditi keeps her exact face, low ponytail, dusty-rose kurta and off-white trousers.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling. Aditi alone is human.
+TALKING LOCK: Aditi visibly lip-syncs her invitation first. Mishri's own mouse muzzle, lips and jaw visibly speak her complete question in exact sync. No closed mouse mouth, voice-over, human lips or shared lip movement.
+GESTURE: Aditi presents the open bag with one welcoming palm. Mishri stops mid-turn, looks back, points lightly toward the pickle container area and leans in with a hopeful expression while asking about achar.
 SHOT 07. Same room and open doorway. Medium-wide shot with the table
 in the foreground and Mishri near the exit on screen-left. Aditi on
 screen-right has just opened the navy food bag. Four closed stainless
@@ -414,6 +401,7 @@ Mishri asks:
 
 End on Aditi's amused smile. Quiet zip and fabric sounds, natural room
 ambience. Do not begin the seated meal or add another spoken response.
+Only the two quoted lines are spoken, with each character lip-syncing her own. No narrator, captions, music, logo, watermark, species drift, extra containers, additional people, changed outfits or changing bag colours.
 ```
 
 ### Clip 08 — Food and family
@@ -421,6 +409,10 @@ ambience. Do not begin the seated meal or add another spoken response.
 **Attach:** Both character references; approved seated table composition/interior reference.
 
 ```text
+Generate one uninterrupted 8-second cinematic photorealistic video, vertical 9:16, with synchronized audio. Reuse the approved seated composition. Mishri is the same cute, petite adult female white mouse with unchanged face, stable pure-white fur and facial proportions, pale-grey crescent above her left eye, dark eyes and long slender pink tail, wearing the same mustard jacket, teal shirt, charcoal trousers, boots and left watch. Aditi retains her approved face, low ponytail, dusty-rose kurta and off-white trousers.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling. Aditi alone is human.
+TALKING LOCK: After Aditi's lip-synced line, Mishri's natural mouse muzzle, lips and lower jaw visibly articulate every syllable of her reply. She finishes speaking before any eating. No voice-over, closed mouth or human-mouth overlay.
+GESTURE: Aditi gestures affectionately with one hand while talking about her mother. Mishri listens with a warm nod, then raises one finger as if offering a practical idea and lightly indicates Aditi's phone when suggesting a photo.
 SHOT 08. A few minutes later in the same flat. Medium two-shot at a small
 light-brown table, Mishri seated screen-left and Aditi seated screen-right.
 Maintain their reference heights and body proportions. The work meeting
@@ -438,6 +430,7 @@ Mishri replies:
 
 They speak with mouths clear of food. End with Aditi reaching for her
 beige-cased phone. Soft ceiling-fan and room ambience, no music.
+Speak only the quoted Hindi in the established voices, one turn at a time, with no speech while chewing. No subtitles, narrator, logos, watermark, species drift, extra people, added dishes, duplicate props or altered table geography.
 ```
 
 ### Clip 09 — Include the pickle
@@ -446,6 +439,10 @@ beige-cased phone. Soft ceiling-fan and room ambience, no music.
 
 ```text
 SHOT 09. Same table, seating, clothes, four containers, lighting and room.
+Create a single 8-second photorealistic vertical 9:16 continuation with audio. Preserve the approved characters, seated scale and positions exactly: Mishri screen-left as the same cute, petite adult female white mouse with identical face, pure-white fur and facial proportions, pale-grey crescent above her left eye, long slender pink tail and unchanged courier clothes; Aditi screen-right with her same face, low ponytail, dusty-rose kurta and off-white trousers. Mishri's brick-red courier bag remains on her chair.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling. Aditi alone is human.
+TALKING LOCK: Aditi's mouth speaks only her question. Mishri's own mouse muzzle, flexible lips and lower jaw then visibly articulate her full reply in precise Hindi sync. Keep the mouse mouth moving until the final word; no narration or human lips.
+GESTURE: Mishri gently slides the pickle container forward with one hand, holds her other palm beside it like a playful product presentation, and gives Aditi a small proud nod. Aditi responds with an amused eyebrow raise.
 Medium two-shot with the food visible in the lower frame. Aditi holds
 her beige-cased phone at chest height, angled down to photograph the
 food. Mishri slides the small open pickle container a few centimetres
@@ -460,6 +457,7 @@ Mishri replies lightly:
 
 End with Aditi smiling at her phone. Gentle plate sounds. No added laugh
 track, no new containers, no extreme close-up of fingers or phone UI.
+Use only the quoted Hindi lines and natural separate lip-sync in their consistent voices. No captions, narrator, music, logo, watermark, species drift, extra hands, duplicate pickle container, changed phone case or rearranged background.
 ```
 
 ### Clip 10 — Mother calls
@@ -468,6 +466,10 @@ track, no new containers, no extreme close-up of fingers or phone UI.
 
 ```text
 SHOT 10. Same seated two-shot and food arrangement as shot 09.
+Make one continuous photorealistic 8-second clip, vertical 9:16, with clear speakerphone audio. Lock the approved table composition and scale. Mishri remains screen-left, the same cute, petite adult female white mouse with fixed pure-white fur, pale-grey crescent above her left eye, long slender pink mouse tail and unchanged courier outfit; Aditi remains screen-right with her approved face, low ponytail, dusty-rose kurta and off-white trousers. The red bag stays on Mishri's chair.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling. Aditi alone is human.
+MOUTH LOCK: Mishri does not speak in this clip, so her mouse mouth stays naturally closed while listening. Aditi alone lip-syncs her line; Mother's phone voice moves no visible mouth. Never add human lips to Mishri.
+GESTURE: Aditi taps speakerphone once and rests the phone near the table. Mishri pauses politely, lowers her hands to the table and turns her attentive gaze from Aditi to the phone. Keep her listening gestures minimal.
 A short ringtone sounds from Aditi's beige-cased phone. She glances at
 the screen, answers with a simple tap, enables speakerphone and holds
 it comfortably near the table. Do not require readable generated text.
@@ -481,6 +483,7 @@ Mother then asks through the phone, off screen:
 Only Aditi's lips move for her own line. Neither visible character speaks
 or lip-syncs Mother's line. End with Aditi looking toward the containers.
 Phone speech is clearly intelligible with a light speakerphone texture.
+Speak only the two quoted Hindi lines. Aditi lip-syncs only her line; neither visible character moves her lips for Mother's consistent mature phone voice. No subtitles, narrator, music, logo, watermark, oversized rodent, extra callers or props.
 ```
 
 ### Clip 11 — The wrong bag
@@ -488,6 +491,10 @@ Phone speech is clearly intelligible with a light speakerphone texture.
 **Attach:** Both character references; matching table frame; same mother's voice reference if available.
 
 ```text
+Generate one 8-second vertical 9:16 photorealistic continuation with synchronized dialogue. Keep Mishri screen-left and Aditi screen-right at the exact approved scale. Mishri is still the same cute, petite adult female white mouse with unchanged face, stable pure-white fur pattern, pale-grey crescent above her left eye, long slender pink mouse tail, mustard jacket, teal shirt, charcoal trousers, boots and left watch. Aditi's face, low ponytail, dusty-rose kurta, off-white trousers and beige phone remain unchanged.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling. Aditi alone is human.
+MOUTH LOCK: Mishri is silent and her natural mouse mouth remains closed while listening. Aditi alone lip-syncs “चार। क्यों?” Mother's phone line produces no visible lip movement. Do not add human lips or random mouth motion to Mishri.
+GESTURE: Aditi counts the four containers with a small sequential finger gesture. Mishri freezes before taking a bite, slowly lowers the paratha piece, lifts her eyebrows and exchanges a surprised glance with Aditi.
 SHOT 11. Continue the same phone call at the same table. Exactly four
 steel containers remain in their established positions. Aditi, seated
 screen-right, briefly counts them with her gaze and a small hand gesture.
@@ -503,6 +510,7 @@ Mother replies through the phone, surprised and slightly hurried:
 End on the two women looking at one another, surprised but not terrified.
 Keep the humour understated. No ominous music, zoom shock effect,
 extra voice, or lip movement from listeners during Mother's line.
+Only the quoted Hindi is spoken: Aditi lip-syncs her question, then both listen silently to Mother's same mature phone voice. No captions, narrator, music, logo, watermark, oversized rodent, new characters, extra containers or jump zoom.
 ```
 
 ### Clip 12 — Where are the lids
@@ -511,6 +519,10 @@ extra voice, or lip movement from listeners during Mother's line.
 
 ```text
 SHOT 12. Same table, positions and active speakerphone call.
+Create the final single continuous 8-second photorealistic clip in vertical 9:16 with clear dialogue. Maintain the exact table layout, lighting, character scale and screen positions from shot 11. Mishri remains the approved cute, petite adult female white mouse with identical face and pure-white fur pattern, pale-grey crescent above her left eye, long slender pink mouse tail, mustard jacket, teal shirt, charcoal trousers, boots and left watch. Aditi retains her approved face, ponytail and clothes; the red bag stays on the chair and the navy food bag remains beside the table.
+SPECIES/VOICE LOCK: Mishri is visually a white mouse only—fully white-mouse face, small tapered muzzle, pink nose, large round ears, large expressive dark-brown eyes and pure white fur, with no human face, skin or hair. VOICE CASTING HARD LOCK: Mishri must speak with an unmistakably adult Haryanvi human male baritone: deep pitch, strong chest resonance, mature weight and natural Haryana cadence. Use a male speaker only. Do not use a female, youthful, soft, high-pitched, neutral, comic, goofy, squeaky or digitally pitch-shifted voice. Keep every Hindi word exactly as written; apply Haryanvi character through accent, rhythm and tone only. This male voice is audio-only and must not change her female mouse appearance. SIZE LOCK: keep her petite at about 125 cm upright, visibly shorter and less bulky than Aditi; never huge, towering, mascot-sized or room-filling. Aditi alone is human.
+TALKING LOCK: Mishri listens with her mouse mouth closed during Mother's phone line. When Mishri replies, her own natural mouse muzzle, lips and lower jaw visibly articulate every Hindi syllable through the final word. No voice-over or human-mouth overlay.
+GESTURE: Mishri sets the food down, checks her phone with a quick wrist movement, then looks at the open containers and turns both palms upward in a practical “where are they?” gesture while asking about the lids. Aditi points toward the lids beside the bag.
 Begin with Mother's voice from Aditi's beige-cased phone:
 “पापा स्टेशन निकल गए। ट्रेन में बस आधा घंटा है!”
 
@@ -525,6 +537,7 @@ Finish on their shared expression of practical urgency. Do not begin
 packing, show a station, or introduce Father. Enough food visibly
 remains for the journey. Four containers, no duplicate phones or bags.
 Quiet room tone, clear dialogue, no additional narration or music.
+Mother's opening is phone-only and causes no listener lip movement; Mishri alone lip-syncs her quoted reply in her established deep Haryanvi male baritone. No subtitles, logos, watermark, oversized rodent, extra characters, duplicate phones, bags or containers.
 ```
 
 ## 6 Edit and review
@@ -553,3 +566,13 @@ Quiet room tone, clear dialogue, no additional narration or music.
 Open with the consequences of this call: checking the correct station, departure details and route, repacking the remaining food, and deciding what is practical. Verify real local geography before writing specific travel times or a route. The half-hour in this fictional conversation is a story deadline, not a claim that any Jaipur route can be completed in that time.
 
 Resolve the food mistake promptly. Keep the humour and tension grounded in everyday family behaviour, work and travel. Introduce a portrait for Aditi’s father only if the next script actually shows him. Do not introduce a crime, secret parcel or supernatural explanation.
+
+
+
+
+
+
+
+
+
+
